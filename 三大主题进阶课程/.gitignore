@@ -1,0 +1,5 @@
+# 原始资料只留本地，不进仓库
+materials/
+
+# 旁听轮询状态
+.poll-state.md
