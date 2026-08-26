@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "三大主题进阶课程/progress.md",
+                    "file": "三大主题进阶课程/agent-discussion.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "progress"
+                  "title": "agent-discussion"
                 }
               }
             ]
@@ -216,8 +216,11 @@
   },
   "active": "7e350a2beea6a973",
   "lastOpenFiles": [
-    "三大主题进阶课程/lessons/network/N02-TCP异常判定：RST报文与Connection-Reset排查.md",
+    "三大主题进阶课程/改版说明.md",
+    "三大主题进阶课程/00-课程总览与大纲.md",
     "三大主题进阶课程/lessons/network/N01-TCP三次握手四次挥手与状态机.md",
+    "三大主题进阶课程/progress.md",
+    "三大主题进阶课程/lessons/network/N02-TCP异常判定：RST报文与Connection-Reset排查.md",
     "三大主题进阶课程/lessons/network",
     "三大主题进阶课程/lessons/ddd",
     "三大主题进阶课程/lessons/concurrency/W01-JMM可见性实验与验证.md",
