@@ -216,6 +216,23 @@
   },
   "active": "7e350a2beea6a973",
   "lastOpenFiles": [
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/![](images/2020-09-17-09-59-12.png).png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-18-15-34.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-13-00-07.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-11-11-08.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-11-24-47.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-11-03-39.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-09-29-00.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-10-57-55.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-10-35-36.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-10-55-33.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-09-31-32.png",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/![](images",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/README.md",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images",
+    "三大主题进阶课程/materials/kafka/raw/kafka-notes",
+    "三大主题进阶课程/materials/kafka/raw/01-Apache-Kafka官方核心设计与架构规范.md",
+    "三大主题进阶课程/materials/kafka/raw",
     "三大主题进阶课程/materials/kafka/01-Kafka核心底层原理与架构指南.md",
     "三大主题进阶课程/ai-teacher-role.md",
     "三大主题进阶课程/materials/kafka/03-实战专题：蓝绿多特征环境Topic动态隔离与路由设计.md",
@@ -244,9 +261,6 @@
     "三大主题进阶课程/kgcard/元-主内存.md",
     "三大主题进阶课程/kgcard/元-写缓冲.md",
     "三大主题进阶课程/kgcard/元-三级写路径.md",
-    "三大主题进阶课程/kgcard/元-内存屏障.md",
-    "三大主题进阶课程/kgcard/元-可见性两层机制.md",
-    "三大主题进阶课程/kgcard/元-缓存一致性协议.md",
     "三大主题进阶课程/kgcard"
   ]
 }

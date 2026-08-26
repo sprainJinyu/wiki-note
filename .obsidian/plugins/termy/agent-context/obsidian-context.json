@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-08-26T11:42:21.565Z",
+  "updatedAt": "2026-08-26T11:48:23.563Z",
   "vaultRoot": "D:/MySpace/wiki-note",
   "workspaceFolders": [
     "D:/MySpace/wiki-note"
@@ -20,18 +20,5 @@
       "isActive": true
     }
   ],
-  "selection": {
-    "text": "",
-    "isEmpty": true,
-    "from": {
-      "line": 0,
-      "ch": 0,
-      "offset": 0
-    },
-    "to": {
-      "line": 0,
-      "ch": 0,
-      "offset": 0
-    }
-  }
+  "selection": null
 }
