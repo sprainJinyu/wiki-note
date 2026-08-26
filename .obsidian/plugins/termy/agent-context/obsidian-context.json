@@ -1,24 +1,37 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-08-26T09:44:17.569Z",
+  "updatedAt": "2026-08-26T11:42:21.565Z",
   "vaultRoot": "D:/MySpace/wiki-note",
   "workspaceFolders": [
     "D:/MySpace/wiki-note"
   ],
   "activeFile": {
-    "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\ai-teacher-role.md",
-    "vaultPath": "三大主题进阶课程/ai-teacher-role.md",
-    "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/ai-teacher-role.md",
+    "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\materials\\concurrency\\并发编程大纲-RedSpider.md",
+    "vaultPath": "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
+    "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/materials/concurrency/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%A4%A7%E7%BA%B2-RedSpider.md",
     "hasFocus": false
   },
   "openFiles": [
     {
-      "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\ai-teacher-role.md",
-      "vaultPath": "三大主题进阶课程/ai-teacher-role.md",
-      "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/ai-teacher-role.md",
+      "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\materials\\concurrency\\并发编程大纲-RedSpider.md",
+      "vaultPath": "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
+      "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/materials/concurrency/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%A4%A7%E7%BA%B2-RedSpider.md",
       "isActive": true
     }
   ],
-  "selection": null
+  "selection": {
+    "text": "",
+    "isEmpty": true,
+    "from": {
+      "line": 0,
+      "ch": 0,
+      "offset": 0
+    },
+    "to": {
+      "line": 0,
+      "ch": 0,
+      "offset": 0
+    }
+  }
 }

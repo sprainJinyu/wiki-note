@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "三大主题进阶课程/ai-teacher-role.md",
+                    "file": "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ai-teacher-role"
+                  "title": "并发编程大纲-RedSpider"
                 }
               }
             ]
@@ -214,10 +214,14 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "323d0c5361dd7af2",
+  "active": "7e350a2beea6a973",
   "lastOpenFiles": [
-    "书单.md",
+    "三大主题进阶课程/materials/kafka/01-Kafka核心底层原理与架构指南.md",
     "三大主题进阶课程/ai-teacher-role.md",
+    "三大主题进阶课程/materials/kafka/03-实战专题：蓝绿多特征环境Topic动态隔离与路由设计.md",
+    "三大主题进阶课程/materials/kafka/02-Spring-Kafka自动装配与生命周期全流程.md",
+    "三大主题进阶课程/materials/kafka",
+    "书单.md",
     "三大主题进阶课程/00-课程总览与大纲.md",
     "三大主题进阶课程/study-progress.md",
     "三大主题进阶课程/用户学习画像.md",
@@ -243,9 +247,6 @@
     "三大主题进阶课程/kgcard/元-内存屏障.md",
     "三大主题进阶课程/kgcard/元-可见性两层机制.md",
     "三大主题进阶课程/kgcard/元-缓存一致性协议.md",
-    "三大主题进阶课程/kgcard/元-缓存一致性问题根源.md",
-    "三大主题进阶课程/kgcard/元-工作内存与堆栈区别.md",
-    "三大主题进阶课程/kgcard/元-工作内存.md",
     "三大主题进阶课程/kgcard"
   ]
 }
