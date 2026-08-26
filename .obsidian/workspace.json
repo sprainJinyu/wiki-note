@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "三大主题进阶课程/agent-discussion.md",
+                    "file": "书单.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "agent-discussion"
+                  "title": "书单"
                 }
               }
             ]
@@ -216,10 +216,14 @@
   },
   "active": "7e350a2beea6a973",
   "lastOpenFiles": [
-    "三大主题进阶课程/改版说明.md",
     "三大主题进阶课程/00-课程总览与大纲.md",
+    "三大主题进阶课程/study-progress.md",
+    "三大主题进阶课程/用户学习画像.md",
+    "三大主题进阶课程/multi-Agent 异步协同/agent-discussion-rule.md",
+    "三大主题进阶课程/multi-Agent 异步协同",
+    "三大主题进阶课程/multi-Agent 异步协同/agent-discussion.md",
+    "三大主题进阶课程/改版说明.md",
     "三大主题进阶课程/lessons/network/N01-TCP三次握手四次挥手与状态机.md",
-    "三大主题进阶课程/progress.md",
     "三大主题进阶课程/lessons/network/N02-TCP异常判定：RST报文与Connection-Reset排查.md",
     "三大主题进阶课程/lessons/network",
     "三大主题进阶课程/lessons/ddd",
@@ -241,10 +245,6 @@
     "三大主题进阶课程/kgcard/元-工作内存与堆栈区别.md",
     "三大主题进阶课程/kgcard/元-工作内存.md",
     "三大主题进阶课程/lessons/L03-指令重排序与Happens-Before规则.md",
-    "三大主题进阶课程/用户学习画像.md",
-    "三大主题进阶课程/lessons/L02-volatile底层原理与CPU缓存一致性.md",
-    "三大主题进阶课程/lessons/L01-JMM内存模型与主内存工作内存.md",
-    "三大主题进阶课程/kgcard/00-知识卡片索引.md",
     "三大主题进阶课程/kgcard"
   ]
 }
