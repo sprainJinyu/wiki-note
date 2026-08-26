@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "书单.md",
+                    "file": "三大主题进阶课程/ai-teacher-role.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "书单"
+                  "title": "ai-teacher-role"
                 }
               }
             ]
@@ -214,8 +214,10 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "7e350a2beea6a973",
+  "active": "323d0c5361dd7af2",
   "lastOpenFiles": [
+    "书单.md",
+    "三大主题进阶课程/ai-teacher-role.md",
     "三大主题进阶课程/00-课程总览与大纲.md",
     "三大主题进阶课程/study-progress.md",
     "三大主题进阶课程/用户学习画像.md",
@@ -244,7 +246,6 @@
     "三大主题进阶课程/kgcard/元-缓存一致性问题根源.md",
     "三大主题进阶课程/kgcard/元-工作内存与堆栈区别.md",
     "三大主题进阶课程/kgcard/元-工作内存.md",
-    "三大主题进阶课程/lessons/L03-指令重排序与Happens-Before规则.md",
     "三大主题进阶课程/kgcard"
   ]
 }

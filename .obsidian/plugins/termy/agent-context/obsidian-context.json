@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-08-26T09:41:57.559Z",
+  "updatedAt": "2026-08-26T09:44:17.569Z",
   "vaultRoot": "D:/MySpace/wiki-note",
   "workspaceFolders": [
     "D:/MySpace/wiki-note"
   ],
   "activeFile": {
-    "filePath": "D:\\MySpace\\wiki-note\\书单.md",
-    "vaultPath": "书单.md",
-    "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B9%A6%E5%8D%95.md",
+    "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\ai-teacher-role.md",
+    "vaultPath": "三大主题进阶课程/ai-teacher-role.md",
+    "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/ai-teacher-role.md",
     "hasFocus": false
   },
   "openFiles": [
     {
-      "filePath": "D:\\MySpace\\wiki-note\\书单.md",
-      "vaultPath": "书单.md",
-      "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B9%A6%E5%8D%95.md",
+      "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\ai-teacher-role.md",
+      "vaultPath": "三大主题进阶课程/ai-teacher-role.md",
+      "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/ai-teacher-role.md",
       "isActive": true
     }
   ],
