@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "f53737e19e002db0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dacc07bd4c09db9a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4908b39eba03cc30",
+            "type": "tabs",
+            "dimension": 77.728285077951,
+            "children": [
+              {
+                "id": "7e350a2beea6a973",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "三大主题进阶课程/progress.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "progress"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a7fa476cb46d58cc",
+            "type": "tabs",
+            "dimension": 22.271714922049,
+            "children": [
+              {
+                "id": "f32713df9d6c2801",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {},
+                  "icon": "terminal",
+                  "title": "Terminal"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "542d91063d20fda0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe1cd2b2b94b2709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "323d0c5361dd7af2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "81b8355e51f04e04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cbfc634d457a8a1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3810d5b615782ae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0823f7445289410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241d94716cc5b6c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "三大主题进阶课程/kgcard/元-主内存.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "dd371132567d8f71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "三大主题进阶课程/kgcard/元-主内存.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "7919c2fdd0dc75af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "180925f5ed51ce08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7bfac337642bf7b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "三大主题进阶课程/kgcard/元-主内存.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "termy:打开Termy终端": false
+    }
+  },
+  "active": "7e350a2beea6a973",
+  "lastOpenFiles": [
+    "三大主题进阶课程/lessons/network/N02-TCP异常判定：RST报文与Connection-Reset排查.md",
+    "三大主题进阶课程/lessons/network/N01-TCP三次握手四次挥手与状态机.md",
+    "三大主题进阶课程/lessons/network",
+    "三大主题进阶课程/lessons/ddd",
+    "三大主题进阶课程/lessons/concurrency/W01-JMM可见性实验与验证.md",
+    "三大主题进阶课程/lessons/concurrency/C04-显式锁ReentrantLock与synchronized对比.md",
+    "三大主题进阶课程/lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决.md",
+    "三大主题进阶课程/lessons/concurrency/C05-AQS核心原理：CLH队列与Node状态流转.md",
+    "三大主题进阶课程/lessons/concurrency/C03-指令重排序与Happens-Before规则.md",
+    "三大主题进阶课程/lessons/concurrency/C02-volatile底层原理与CPU缓存一致性.md",
+    "三大主题进阶课程/lessons/concurrency/C01-JMM内存模型与主内存工作内存.md",
+    "三大主题进阶课程/lessons/concurrency",
+    "三大主题进阶课程/kgcard/元-主内存.md",
+    "三大主题进阶课程/kgcard/元-写缓冲.md",
+    "三大主题进阶课程/kgcard/元-三级写路径.md",
+    "三大主题进阶课程/kgcard/元-内存屏障.md",
+    "三大主题进阶课程/kgcard/元-可见性两层机制.md",
+    "三大主题进阶课程/kgcard/元-缓存一致性协议.md",
+    "三大主题进阶课程/kgcard/元-缓存一致性问题根源.md",
+    "三大主题进阶课程/kgcard/元-工作内存与堆栈区别.md",
+    "三大主题进阶课程/kgcard/元-工作内存.md",
+    "三大主题进阶课程/lessons/L03-指令重排序与Happens-Before规则.md",
+    "三大主题进阶课程/用户学习画像.md",
+    "三大主题进阶课程/lessons/L02-volatile底层原理与CPU缓存一致性.md",
+    "三大主题进阶课程/lessons/L01-JMM内存模型与主内存工作内存.md",
+    "三大主题进阶课程/kgcard/00-知识卡片索引.md",
+    "三大主题进阶课程/kgcard"
+  ]
+}
