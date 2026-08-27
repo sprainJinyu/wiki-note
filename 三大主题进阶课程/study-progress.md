@@ -1,7 +1,7 @@
 ---
 title: 原理卡进度看板
 created: 2026-08-17
-updated: 2026-08-26
+updated: 2026-08-27
 tags: [学习进度, 原理卡]
 ---
 
@@ -25,7 +25,7 @@ tags: [学习进度, 原理卡]
 - [x] **C03** [[lessons/concurrency/C03-指令重排序与Happens-Before规则|用 happens-before 思考可见性]] `[日期: 2026-08-25]` `[复述: 能]`
 - [x] **C04** [[lessons/concurrency/C04-显式锁ReentrantLock与synchronized对比|两种锁差在中断、超时、条件、公平]] `[日期: 2026-08-26]` `[复述: 能]`
 - [x] **C05** [[lessons/concurrency/C05-AQS核心原理：CLH队列与Node状态流转|AQS 三要素]] `[日期: 2026-08-26]` `[复述: 能]`
-- [ ] **C06** [[lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决|CAS 与 ABA]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [x] **C06** [[lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决|CAS 与 ABA]] `[日期: 2026-08-27]` `[复述: 能]`
 - [ ] **W01**（可选轻实验）[[lessons/concurrency/W01-JMM可见性实验与验证|JMM 可见性验证]] `[做了 / 跳过]`
 
 待写（按需产出，无正文勿勾）：
