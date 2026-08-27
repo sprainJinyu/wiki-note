@@ -8,7 +8,7 @@ tags: [学习进度, 原理卡]
 # 原理卡进度看板
 
 > **勾选标准**：能用自己的话复述该卡「今天只带走这一条」。不记代码、不记 Wiki。
-> **学习原则**：**专题单通（推荐先连续通关并发 ➔ 再通关网络/Kafka ➔ 最后 DDD）**。
+> **学习原则**：**专题单通（推荐先连续通关并发 ⟨ 再通关网络/Kafka ⟨ 最后 DDD）**。
 > 待写卡（无正文）勿勾。用法见 [[00-课程总览与大纲]]。
 
 * **总规模**：26 张原理卡 + 1 个可选验证（W01）
@@ -24,7 +24,7 @@ tags: [学习进度, 原理卡]
 - [x] **C02** [[lessons/concurrency/C02-volatile底层原理与CPU缓存一致性|volatile 可见、有序、非原子]] `[日期: 2026-08-25]` `[复述: 能]`
 - [x] **C03** [[lessons/concurrency/C03-指令重排序与Happens-Before规则|用 happens-before 思考可见性]] `[日期: 2026-08-25]` `[复述: 能]`
 - [x] **C04** [[lessons/concurrency/C04-显式锁ReentrantLock与synchronized对比|两种锁差在中断、超时、条件、公平]] `[日期: 2026-08-26]` `[复述: 能]`
-- [ ] **C05** [[lessons/concurrency/C05-AQS核心原理：CLH队列与Node状态流转|AQS 三要素]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [x] **C05** [[lessons/concurrency/C05-AQS核心原理：CLH队列与Node状态流转|AQS 三要素]] `[日期: 2026-08-26]` `[复述: 能]`
 - [ ] **C06** [[lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决|CAS 与 ABA]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
 - [ ] **W01**（可选轻实验）[[lessons/concurrency/W01-JMM可见性实验与验证|JMM 可见性验证]] `[做了 / 跳过]`
 
