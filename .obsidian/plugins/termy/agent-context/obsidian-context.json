@@ -1,24 +1,37 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-08-28T03:36:21.510Z",
+  "updatedAt": "2026-08-28T09:16:05.992Z",
   "vaultRoot": "D:/MySpace/wiki-note",
   "workspaceFolders": [
     "D:/MySpace/wiki-note"
   ],
   "activeFile": {
-    "filePath": "D:\\MySpace\\wiki-note\\知识库与个人学习笔记协作设计.md",
-    "vaultPath": "知识库与个人学习笔记协作设计.md",
-    "fileUrl": "file:///D:/MySpace/wiki-note/%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E5%8D%8F%E4%BD%9C%E8%AE%BE%E8%AE%A1.md",
+    "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\lessons\\concurrency\\C07-线程池核心机制与排队本质.md",
+    "vaultPath": "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
+    "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/lessons/concurrency/C07-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E6%A0%B8%E5%BF%83%E6%9C%BA%E5%88%B6%E4%B8%8E%E6%8E%92%E9%98%9F%E6%9C%AC%E8%B4%A8.md",
     "hasFocus": false
   },
   "openFiles": [
     {
-      "filePath": "D:\\MySpace\\wiki-note\\知识库与个人学习笔记协作设计.md",
-      "vaultPath": "知识库与个人学习笔记协作设计.md",
-      "fileUrl": "file:///D:/MySpace/wiki-note/%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E5%8D%8F%E4%BD%9C%E8%AE%BE%E8%AE%A1.md",
+      "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\lessons\\concurrency\\C07-线程池核心机制与排队本质.md",
+      "vaultPath": "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
+      "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/lessons/concurrency/C07-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E6%A0%B8%E5%BF%83%E6%9C%BA%E5%88%B6%E4%B8%8E%E6%8E%92%E9%98%9F%E6%9C%AC%E8%B4%A8.md",
       "isActive": true
     }
   ],
-  "selection": null
+  "selection": {
+    "text": "",
+    "isEmpty": true,
+    "from": {
+      "line": 8,
+      "ch": 0,
+      "offset": 148
+    },
+    "to": {
+      "line": 8,
+      "ch": 0,
+      "offset": 148
+    }
+  }
 }

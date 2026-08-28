@@ -12,11 +12,11 @@ tags: [学习进度, 原理卡]
 > 待写卡（无正文）勿勾。用法见 [[00-课程总览与大纲]]。
 
 * **总规模**：33 张原理卡 + 1 个可选验证（W01）
-* **已就绪正文**：并发 7 篇（C01~C07）+ Kafka 5 篇（K01~K05）+ 网络 2 篇（N01~N02）+ 可选 W01
+* **已就绪正文**：并发 15 篇（C01~C15 全就绪）+ Kafka 5 篇（K01~K05）+ 网络 2 篇（N01~N02）+ 可选 W01
 
 ---
 
-## 🧵 并发专题卡组（15 张 + 可选 W01）
+## 🧵 并发专题卡组（15 张 + 可选 W01 · 全部正文就绪）
 
 ### 阶段 1：底层基石（已 100% 通关）
 
@@ -28,20 +28,20 @@ tags: [学习进度, 原理卡]
 - [x] **C06** [[lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决|CAS 与 ABA]] `[日期: 2026-08-27]` `[复述: 能]`
 - [ ] **W01**（可选轻实验）[[lessons/concurrency/W01-JMM可见性实验与验证|JMM 可见性验证]] `[做了 / 跳过]`
 
-### 阶段 2：JDK 核心工具储备（路线 1 筑基）
+### 阶段 2：JDK 核心工具储备（路线 1 筑基 · 已就绪）
 
 - [ ] **C07** [[lessons/concurrency/C07-线程池核心机制与排队本质|进池顺序：core → 队列 → max]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
-- [ ] **C08** 阻塞队列与拒绝策略：`SynchronousQueue` vs `LinkedBlockingQueue`；`execute` vs `submit`
-- [ ] **C09** `ThreadLocalMap` 弱引用 Key 强引用 Value；用完必 `remove()`
-- [ ] **C10** 并发协作三剑客：`CountDownLatch` vs `CyclicBarrier` vs `Semaphore`
-- [ ] **C11** `ConcurrentHashMap` 锁桶节点与 `LongAdder` 分段累加
+- [ ] **C08** [[lessons/concurrency/C08-阻塞队列与拒绝策略|阻塞队列选型与 execute/submit 异常机制]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [ ] **C09** [[lessons/concurrency/C09-ThreadLocal内存模型与隐患|ThreadLocalMap 弱引用 Key 强引用 Value]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [ ] **C10** [[lessons/concurrency/C10-并发协作三剑客|CountDownLatch vs CyclicBarrier vs Semaphore]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [ ] **C11** [[lessons/concurrency/C11-ConcurrentHashMap与LongAdder|ConcurrentHashMap 锁桶头与 LongAdder 分段累加]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
 
-### 阶段 3：现代实战编排与排查（路线 2 贯通 · 聚焦场景 ACD）
+### 阶段 3：现代实战编排与排查（路线 2 贯通 · 聚焦场景 ACD · 已就绪）
 
-- [ ] **C12** `CompletableFuture` 异步编排、多下游汇聚与异常降级（场景 A）
-- [ ] **C13** 微服务上下文跨线程传递：阿里 `TTL` 快照抓取与回放机制（场景 C）
-- [ ] **C14** 弹性容错与重试机制：指数退避、Jitter 与线程池隔离 Bulkhead（场景 D）
-- [ ] **C15** 线上并发故障排查：`top -Hp` 与 `jstack` 快速分析直觉
+- [ ] **C12** [[lessons/concurrency/C12-CompletableFuture异步编排|CompletableFuture 异步编排、多下游汇聚与异常降级]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [ ] **C13** [[lessons/concurrency/C13-微服务上下文跨线程传递|微服务上下文跨线程传递：阿里 TTL 抓取与回放]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [ ] **C14** [[lessons/concurrency/C14-弹性容错与重试机制设计|弹性容错与重试机制：指数退避 Jitter 与线程池隔离]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [ ] **C15** [[lessons/concurrency/C15-线上并发故障与jstack定位实战|线上并发故障排查：top -Hp 与 jstack 快速分析]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
 
 ---
 

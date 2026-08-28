@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "知识库与个人学习笔记协作设计.md",
+                    "file": "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "知识库与个人学习笔记协作设计"
+                  "title": "C07-线程池核心机制与排队本质"
                 }
               }
             ]
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库与个人学习笔记协作设计.md",
+                "file": "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,9 +214,20 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "f32713df9d6c2801",
+  "active": "7e350a2beea6a973",
   "lastOpenFiles": [
+    "三大主题进阶课程/lessons/concurrency/C15-线上并发故障与jstack定位实战.md",
+    "三大主题进阶课程/lessons/concurrency/C14-弹性容错与重试机制设计.md",
+    "三大主题进阶课程/lessons/concurrency/C13-微服务上下文跨线程传递.md",
+    "三大主题进阶课程/lessons/concurrency/C12-CompletableFuture异步编排.md",
+    "三大主题进阶课程/lessons/concurrency/C11-ConcurrentHashMap与LongAdder.md",
+    "三大主题进阶课程/lessons/concurrency/C10-并发协作三剑客.md",
+    "三大主题进阶课程/lessons/concurrency/C09-ThreadLocal内存模型与隐患.md",
+    "三大主题进阶课程/lessons/concurrency/C08-阻塞队列与拒绝策略.md",
+    "三大主题进阶课程/study-progress.md",
+    "三大主题进阶课程/lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决.md",
     "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
+    "知识库与个人学习笔记协作设计.md",
     "三大主题进阶课程/kgcard/知识卡片-竞争失败后的两条路.md",
     "三大主题进阶课程/kgcard/知识卡片-CAS与ABA.md",
     "三大主题进阶课程/kgcard/知识卡片-AQS独占与共享.md",
@@ -225,23 +236,12 @@
     "三大主题进阶课程/kgcard/元-CAS.md",
     "三大主题进阶课程/kgcard/元-ABA.md",
     "三大主题进阶课程/kgcard/知识卡片-AQS三要素.md",
-    "知识库与个人学习笔记协作设计.md",
     "三大主题进阶课程/kgcard/知识卡片-显式锁与内置锁的选择.md",
     "三大主题进阶课程/kgcard/知识卡片-三级写路径.md",
     "三大主题进阶课程/kgcard/知识卡片-可见性两层机制.md",
     "三大主题进阶课程/用户学习画像.md",
-    "三大主题进阶课程/study-progress.md",
     "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
     "三大主题进阶课程/kgcard/元-锁的重入.md",
-    "三大主题进阶课程/kgcard/元-等待队列哨兵.md",
-    "三大主题进阶课程/kgcard/元-内置锁与显式锁的使用成本.md",
-    "三大主题进阶课程/kgcard/元-公平锁与非公平锁.md",
-    "三大主题进阶课程/kgcard/元-中断获取与超时获取.md",
-    "三大主题进阶课程/kgcard/元-state在可重入锁中的双重含义.md",
-    "三大主题进阶课程/kgcard/元-Condition通道.md",
-    "三大主题进阶课程/kgcard/元-AQS不是锁.md",
-    "三大主题进阶课程/kgcard/元-AQS三要素.md",
-    "三大主题进阶课程/lessons/kafka/K05-Consumer-Rebalance重平衡与协作式分配.md",
     "三大主题进阶课程/lessons/kafka",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/![](images/2020-09-17-09-59-12.png).png",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-18-15-34.png",
