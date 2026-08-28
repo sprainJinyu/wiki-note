@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
+                    "file": "知识库与个人学习笔记协作设计.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "并发编程大纲-RedSpider"
+                  "title": "知识库与个人学习笔记协作设计"
                 }
               }
             ]
@@ -124,8 +124,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三大主题进阶课程/kgcard/元-主内存.md",
-                "collapseAll": false,
+                "file": "知识库与个人学习笔记协作设计.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三大主题进阶课程/kgcard/元-主内存.md",
+                "file": "知识库与个人学习笔记协作设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,12 +195,12 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +214,35 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "7e350a2beea6a973",
+  "active": "f32713df9d6c2801",
   "lastOpenFiles": [
+    "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
+    "三大主题进阶课程/kgcard/知识卡片-竞争失败后的两条路.md",
+    "三大主题进阶课程/kgcard/知识卡片-CAS与ABA.md",
+    "三大主题进阶课程/kgcard/知识卡片-AQS独占与共享.md",
+    "三大主题进阶课程/kgcard/元-Semaphore许可.md",
+    "三大主题进阶课程/kgcard/元-CountDownLatch单向倒数.md",
+    "三大主题进阶课程/kgcard/元-CAS.md",
+    "三大主题进阶课程/kgcard/元-ABA.md",
+    "三大主题进阶课程/kgcard/知识卡片-AQS三要素.md",
+    "知识库与个人学习笔记协作设计.md",
+    "三大主题进阶课程/kgcard/知识卡片-显式锁与内置锁的选择.md",
+    "三大主题进阶课程/kgcard/知识卡片-三级写路径.md",
+    "三大主题进阶课程/kgcard/知识卡片-可见性两层机制.md",
+    "三大主题进阶课程/用户学习画像.md",
+    "三大主题进阶课程/study-progress.md",
+    "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
+    "三大主题进阶课程/kgcard/元-锁的重入.md",
+    "三大主题进阶课程/kgcard/元-等待队列哨兵.md",
+    "三大主题进阶课程/kgcard/元-内置锁与显式锁的使用成本.md",
+    "三大主题进阶课程/kgcard/元-公平锁与非公平锁.md",
+    "三大主题进阶课程/kgcard/元-中断获取与超时获取.md",
+    "三大主题进阶课程/kgcard/元-state在可重入锁中的双重含义.md",
+    "三大主题进阶课程/kgcard/元-Condition通道.md",
+    "三大主题进阶课程/kgcard/元-AQS不是锁.md",
+    "三大主题进阶课程/kgcard/元-AQS三要素.md",
+    "三大主题进阶课程/lessons/kafka/K05-Consumer-Rebalance重平衡与协作式分配.md",
+    "三大主题进阶课程/lessons/kafka",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/![](images/2020-09-17-09-59-12.png).png",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-18-15-34.png",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-13-00-07.png",
@@ -226,41 +253,14 @@
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-10-57-55.png",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-10-35-36.png",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-10-55-33.png",
-    "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-09-31-32.png",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/![](images",
-    "三大主题进阶课程/materials/kafka/raw/kafka-notes/README.md",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes",
-    "三大主题进阶课程/materials/kafka/raw/01-Apache-Kafka官方核心设计与架构规范.md",
     "三大主题进阶课程/materials/kafka/raw",
-    "三大主题进阶课程/materials/kafka/01-Kafka核心底层原理与架构指南.md",
-    "三大主题进阶课程/ai-teacher-role.md",
-    "三大主题进阶课程/materials/kafka/03-实战专题：蓝绿多特征环境Topic动态隔离与路由设计.md",
-    "三大主题进阶课程/materials/kafka/02-Spring-Kafka自动装配与生命周期全流程.md",
     "三大主题进阶课程/materials/kafka",
-    "书单.md",
-    "三大主题进阶课程/00-课程总览与大纲.md",
-    "三大主题进阶课程/study-progress.md",
-    "三大主题进阶课程/用户学习画像.md",
-    "三大主题进阶课程/multi-Agent 异步协同/agent-discussion-rule.md",
     "三大主题进阶课程/multi-Agent 异步协同",
-    "三大主题进阶课程/multi-Agent 异步协同/agent-discussion.md",
-    "三大主题进阶课程/改版说明.md",
-    "三大主题进阶课程/lessons/network/N01-TCP三次握手四次挥手与状态机.md",
-    "三大主题进阶课程/lessons/network/N02-TCP异常判定：RST报文与Connection-Reset排查.md",
     "三大主题进阶课程/lessons/network",
     "三大主题进阶课程/lessons/ddd",
-    "三大主题进阶课程/lessons/concurrency/W01-JMM可见性实验与验证.md",
-    "三大主题进阶课程/lessons/concurrency/C04-显式锁ReentrantLock与synchronized对比.md",
-    "三大主题进阶课程/lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决.md",
-    "三大主题进阶课程/lessons/concurrency/C05-AQS核心原理：CLH队列与Node状态流转.md",
-    "三大主题进阶课程/lessons/concurrency/C03-指令重排序与Happens-Before规则.md",
-    "三大主题进阶课程/lessons/concurrency/C02-volatile底层原理与CPU缓存一致性.md",
-    "三大主题进阶课程/lessons/concurrency/C01-JMM内存模型与主内存工作内存.md",
-    "三大主题进阶课程/lessons/concurrency",
-    "三大主题进阶课程/kgcard/元-主内存.md",
-    "三大主题进阶课程/kgcard/元-写缓冲.md",
-    "三大主题进阶课程/kgcard/元-三级写路径.md",
-    "三大主题进阶课程/kgcard"
+    "三大主题进阶课程/lessons/concurrency"
   ]
 }

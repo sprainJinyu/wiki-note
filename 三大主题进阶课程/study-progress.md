@@ -11,14 +11,14 @@ tags: [学习进度, 原理卡]
 > **学习原则**：**专题单通（推荐先连续通关并发 ⟨ 再通关网络/Kafka ⟨ 最后 DDD）**。
 > 待写卡（无正文）勿勾。用法见 [[00-课程总览与大纲]]。
 
-* **总规模**：26 张原理卡 + 1 个可选验证（W01）
-* **已就绪正文**：并发 6 篇（C01~C06）+ Kafka 5 篇（K01~K05）+ 网络 2 篇（N01~N02）+ 可选 W01
+* **总规模**：33 张原理卡 + 1 个可选验证（W01）
+* **已就绪正文**：并发 7 篇（C01~C07）+ Kafka 5 篇（K01~K05）+ 网络 2 篇（N01~N02）+ 可选 W01
 
 ---
 
-## 🧵 并发专题卡组（8 张 + 可选 W01）
+## 🧵 并发专题卡组（15 张 + 可选 W01）
 
-已就绪：
+### 阶段 1：底层基石（已 100% 通关）
 
 - [x] **C01** [[lessons/concurrency/C01-JMM内存模型与主内存工作内存|没有同步，就不保证可见]] `[日期: 2026-08-25]` `[复述: 能]`
 - [x] **C02** [[lessons/concurrency/C02-volatile底层原理与CPU缓存一致性|volatile 可见、有序、非原子]] `[日期: 2026-08-25]` `[复述: 能]`
@@ -28,10 +28,20 @@ tags: [学习进度, 原理卡]
 - [x] **C06** [[lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决|CAS 与 ABA]] `[日期: 2026-08-27]` `[复述: 能]`
 - [ ] **W01**（可选轻实验）[[lessons/concurrency/W01-JMM可见性实验与验证|JMM 可见性验证]] `[做了 / 跳过]`
 
-待写（按需产出，无正文勿勾）：
+### 阶段 2：JDK 核心工具储备（路线 1 筑基）
 
-- **C07** 进池顺序：core → 队列 → max（无界队列隐患）
-- **C08** 拒绝策略；`execute` 抛异常 vs `submit` 吞异常
+- [ ] **C07** [[lessons/concurrency/C07-线程池核心机制与排队本质|进池顺序：core → 队列 → max]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
+- [ ] **C08** 阻塞队列与拒绝策略：`SynchronousQueue` vs `LinkedBlockingQueue`；`execute` vs `submit`
+- [ ] **C09** `ThreadLocalMap` 弱引用 Key 强引用 Value；用完必 `remove()`
+- [ ] **C10** 并发协作三剑客：`CountDownLatch` vs `CyclicBarrier` vs `Semaphore`
+- [ ] **C11** `ConcurrentHashMap` 锁桶节点与 `LongAdder` 分段累加
+
+### 阶段 3：现代实战编排与排查（路线 2 贯通 · 聚焦场景 ACD）
+
+- [ ] **C12** `CompletableFuture` 异步编排、多下游汇聚与异常降级（场景 A）
+- [ ] **C13** 微服务上下文跨线程传递：阿里 `TTL` 快照抓取与回放机制（场景 C）
+- [ ] **C14** 弹性容错与重试机制：指数退避、Jitter 与线程池隔离 Bulkhead（场景 D）
+- [ ] **C15** 线上并发故障排查：`top -Hp` 与 `jstack` 快速分析直觉
 
 ---
 

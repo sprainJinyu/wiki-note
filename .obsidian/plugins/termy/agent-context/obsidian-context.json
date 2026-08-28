@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "source": "termy",
-  "updatedAt": "2026-08-26T11:48:23.563Z",
+  "updatedAt": "2026-08-28T03:36:21.510Z",
   "vaultRoot": "D:/MySpace/wiki-note",
   "workspaceFolders": [
     "D:/MySpace/wiki-note"
   ],
   "activeFile": {
-    "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\materials\\concurrency\\并发编程大纲-RedSpider.md",
-    "vaultPath": "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
-    "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/materials/concurrency/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%A4%A7%E7%BA%B2-RedSpider.md",
+    "filePath": "D:\\MySpace\\wiki-note\\知识库与个人学习笔记协作设计.md",
+    "vaultPath": "知识库与个人学习笔记协作设计.md",
+    "fileUrl": "file:///D:/MySpace/wiki-note/%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E5%8D%8F%E4%BD%9C%E8%AE%BE%E8%AE%A1.md",
     "hasFocus": false
   },
   "openFiles": [
     {
-      "filePath": "D:\\MySpace\\wiki-note\\三大主题进阶课程\\materials\\concurrency\\并发编程大纲-RedSpider.md",
-      "vaultPath": "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
-      "fileUrl": "file:///D:/MySpace/wiki-note/%E4%B8%89%E5%A4%A7%E4%B8%BB%E9%A2%98%E8%BF%9B%E9%98%B6%E8%AF%BE%E7%A8%8B/materials/concurrency/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%A4%A7%E7%BA%B2-RedSpider.md",
+      "filePath": "D:\\MySpace\\wiki-note\\知识库与个人学习笔记协作设计.md",
+      "vaultPath": "知识库与个人学习笔记协作设计.md",
+      "fileUrl": "file:///D:/MySpace/wiki-note/%E7%9F%A5%E8%AF%86%E5%BA%93%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E5%8D%8F%E4%BD%9C%E8%AE%BE%E8%AE%A1.md",
       "isActive": true
     }
   ],
