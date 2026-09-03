@@ -31,7 +31,7 @@ tags: [学习进度, 原理卡]
 ### 阶段 2：JDK 核心工具储备（路线 1 筑基 · 已就绪）
 
 - [x] **C07** [[lessons/concurrency/C07-线程池核心机制与排队本质|进池顺序：core → 队列 → max]] `[日期: 2026-08-28]` `[复述: 能]`
-- [ ] **C08** [[lessons/concurrency/C08-阻塞队列与拒绝策略|阻塞队列选型与 execute/submit 异常机制]] `[日期: 2026-09-03 阶段收尾]` `[复述: 部分能]`
+- [x] **C08** [[lessons/concurrency/C08-阻塞队列与拒绝策略|阻塞队列选型与 execute/submit 异常机制]] `[日期: 2026-09-03]` `[复述: 能]`
 - [ ] **C09** [[lessons/concurrency/C09-ThreadLocal内存模型与隐患|ThreadLocalMap 弱引用 Key 强引用 Value]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
 - [ ] **C10** [[lessons/concurrency/C10-并发协作三剑客|CountDownLatch vs CyclicBarrier vs Semaphore]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
 - [ ] **C11** [[lessons/concurrency/C11-ConcurrentHashMap与LongAdder|ConcurrentHashMap 锁桶头与 LongAdder 分段累加]] `[日期: ____-__-__]` `[复述: 能 / 不能]`
@@ -88,8 +88,6 @@ tags: [学习进度, 原理卡]
 - **D03** 一次事务只改一个聚合
 - **D04** 仓储按聚合存取，不是按表
 
-*可选（随 D04 一同提供）：5 分钟草稿纸脑力自测（积分扣减 vs 发券）。*
-
 ---
 
 ## 📝 复述时卡住的点
@@ -97,4 +95,4 @@ tags: [学习进度, 原理卡]
 *读完复述不出来，把那句话记在这里，下一张卡开始前先看：*
 
 * C07：扩容的是工作线程数，不是把 corePoolSize 改大；救急线程是非核心线程。
-* C08：三层队列不要套成 Worker 身份——同步队列等的是任务队列那把锁；`offer` 失败才有第 3、4 段。剩余：拒绝策略四种、execute/submit 异常、Linked 双锁。
+* C08：`SynchronousQueue` ≠ AQS 同步队列。同步队列等的是任务队列那把锁；`SynchronousQueue` 容量为 0，直接交接。
