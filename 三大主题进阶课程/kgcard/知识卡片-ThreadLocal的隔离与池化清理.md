@@ -22,4 +22,8 @@ Value 强引用：`Thread` → Map → `Entry` → Value，不 `remove()` 就跟
 线程池里同一条 Worker 会接下一单任务。不 `remove()`：Value 占着堆（泄漏），下一单可能 `get` 到上一单的值（污染）。  
 污染的是同一条线程的下一个任务，不是别的线程。
 
->标记：`set`/`get` 路径上的过期 Key 探测清理、为何常声明 `private static final`、拦截器 `afterCompletion` 中 `remove`，本次未完整口述。
+过期 Key：地图里 Key 已是 `null`、Value 还在。局部 `new` 出来的钥匙被 GC 后会走这条；`static` 钥匙不走。顺路清理发生在这条线程后续的 `get` / `set` / `remove`，不是定时扫。Tomcat 常驻 Worker 上的问题是钥匙还在、格子还在，要靠 `remove()`。
+
+`private static final`：全进程同一把钥匙，`set` / `get` / `remove` 对得上同一格。
+
+`remove()` 放在一定执行到的出口：自己的方法里用 `finally`；拦截器里用 `afterCompletion`（成败都会到，相当于请求链路上的 `finally`）。
