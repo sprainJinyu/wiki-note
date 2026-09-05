@@ -1,12 +1,17 @@
 ---
 title: 元-Semaphore许可
 created: 2026-08-27
-updated: 2026-08-27
-tags: [元知识点, AQS, Semaphore]
+updated: 2026-09-05
+tags: [元知识点, AQS, Semaphore, C10]
 ---
 
 # 元-Semaphore许可
 
-信号量的 `state` 是还能发出去的许可数。  
-变成 0 意味着数量发完了，后来的人排队。  
-有人释放才能把数量返还回来，许可可以反复用。
+`Semaphore` 的 `state` 是还能发出去的许可数。  
+`acquire()` 拿走一张，没有就等；`release()` 还回一张。池子有限，可反复用。
+
+管的是此刻同时持有的人数，不是单位时间的请求数。
+
+## 巧思 / 细则
+
+没有持有者。A `acquire()` 之后可以由 B `release()`。和 `ReentrantLock` 不是一把锁。
