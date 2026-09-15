@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dacc07bd4c09db9a",
-        "type": "split",
+        "id": "4908b39eba03cc30",
+        "type": "tabs",
         "children": [
           {
-            "id": "4908b39eba03cc30",
-            "type": "tabs",
-            "dimension": 77.728285077951,
-            "children": [
-              {
-                "id": "7e350a2beea6a973",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "C07-线程池核心机制与排队本质"
-                }
-              }
-            ]
-          },
-          {
-            "id": "a7fa476cb46d58cc",
-            "type": "tabs",
-            "dimension": 22.271714922049,
-            "children": [
-              {
-                "id": "f32713df9d6c2801",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal-view",
-                  "state": {},
-                  "icon": "terminal",
-                  "title": "Terminal"
-                }
-              }
-            ]
+            "id": "7e350a2beea6a973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "海豚AI与智能体平台/02-知识库问答流与AG-UI协议规范.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-知识库问答流与AG-UI协议规范"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.05859375
   },
   "right": {
     "id": "3810d5b615782ae0",
@@ -186,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
+                "file": "海豚AI与智能体平台/02-知识库问答流与AG-UI协议规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 464.0078125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +191,10 @@
   },
   "active": "7e350a2beea6a973",
   "lastOpenFiles": [
+    "海豚AI与智能体平台/03-双链路交叉机制与架构对比.md",
+    "海豚AI与智能体平台/00-海豚AI与知识库体系全景总览.md",
+    "未命名.md",
+    "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
     "三大主题进阶课程/lessons/concurrency/C15-线上并发故障与jstack定位实战.md",
     "三大主题进阶课程/lessons/concurrency/C14-弹性容错与重试机制设计.md",
     "三大主题进阶课程/lessons/concurrency/C13-微服务上下文跨线程传递.md",
@@ -226,7 +205,6 @@
     "三大主题进阶课程/lessons/concurrency/C08-阻塞队列与拒绝策略.md",
     "三大主题进阶课程/study-progress.md",
     "三大主题进阶课程/lessons/concurrency/C06-CAS无锁算法、Unsafe与ABA问题解决.md",
-    "三大主题进阶课程/lessons/concurrency/C07-线程池核心机制与排队本质.md",
     "知识库与个人学习笔记协作设计.md",
     "三大主题进阶课程/kgcard/知识卡片-竞争失败后的两条路.md",
     "三大主题进阶课程/kgcard/知识卡片-CAS与ABA.md",
@@ -239,9 +217,6 @@
     "三大主题进阶课程/kgcard/知识卡片-显式锁与内置锁的选择.md",
     "三大主题进阶课程/kgcard/知识卡片-三级写路径.md",
     "三大主题进阶课程/kgcard/知识卡片-可见性两层机制.md",
-    "三大主题进阶课程/用户学习画像.md",
-    "三大主题进阶课程/materials/concurrency/并发编程大纲-RedSpider.md",
-    "三大主题进阶课程/kgcard/元-锁的重入.md",
     "三大主题进阶课程/lessons/kafka",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/![](images/2020-09-17-09-59-12.png).png",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-18-15-34.png",
