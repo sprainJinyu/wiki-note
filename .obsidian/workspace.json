@@ -11,14 +11,10 @@
             "id": "7e350a2beea6a973",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "海豚AI与智能体平台/02-知识库问答流与AG-UI协议规范.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02-知识库问答流与AG-UI协议规范"
+              "title": "新标签页"
             }
           }
         ]
@@ -161,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "海豚AI与智能体平台/02-知识库问答流与AG-UI协议规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,8 +184,11 @@
       "termy:打开Termy终端": false
     }
   },
-  "active": "7e350a2beea6a973",
+  "active": "323d0c5361dd7af2",
   "lastOpenFiles": [
+    "inbox/2026-09-15-幕布AI操作调研：官方MCP为超级会员专属，高级会员可用逆向API-浏览器自动化路线.md",
+    "inbox",
+    "AGENTS.md",
     "海豚AI与智能体平台/03-双链路交叉机制与架构对比.md",
     "海豚AI与智能体平台/00-海豚AI与知识库体系全景总览.md",
     "未命名.md",
@@ -215,8 +213,6 @@
     "三大主题进阶课程/kgcard/元-ABA.md",
     "三大主题进阶课程/kgcard/知识卡片-AQS三要素.md",
     "三大主题进阶课程/kgcard/知识卡片-显式锁与内置锁的选择.md",
-    "三大主题进阶课程/kgcard/知识卡片-三级写路径.md",
-    "三大主题进阶课程/kgcard/知识卡片-可见性两层机制.md",
     "三大主题进阶课程/lessons/kafka",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/![](images/2020-09-17-09-59-12.png).png",
     "三大主题进阶课程/materials/kafka/raw/kafka-notes/images/2020-09-20-18-15-34.png",
@@ -235,7 +231,6 @@
     "三大主题进阶课程/materials/kafka",
     "三大主题进阶课程/multi-Agent 异步协同",
     "三大主题进阶课程/lessons/network",
-    "三大主题进阶课程/lessons/ddd",
-    "三大主题进阶课程/lessons/concurrency"
+    "三大主题进阶课程/lessons/ddd"
   ]
 }
